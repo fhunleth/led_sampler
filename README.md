@@ -22,4 +22,8 @@ The LED driver is IS31FL3236A with I2C address 0x3C. (Somehow I typo'd the
 silkscreen.) Connections are listed on the back of the board and in the
 schematic.
 
+## License
+
+LED Sampler by Frank Hunleth is marked with CC0 1.0. To view a copy of this
+license, visit http://creativecommons.org/publicdomain/zero/1.0
 
